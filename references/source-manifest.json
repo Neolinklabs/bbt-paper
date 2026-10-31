@@ -1,0 +1,21 @@
+{
+  "imported_on": "2026-11-01",
+  "source_file": "references/originals/2026-10-29-百博白皮书-v1.0.docx",
+  "source_title": "百博（Babel）白皮书：可验证的分布式推理网络",
+  "source_version": "v1.0",
+  "source_date": "2026-10-29",
+  "source_status": "对外草稿 · 待律师审核",
+  "sha256": "1dff3b775687edb311567bed222f8c60eec6e76bc138f8428bd238977d1466d7",
+  "size_bytes": 240606,
+  "markdown": "content/whitepaper/whitepaper.md",
+  "tables": 5,
+  "images": [
+    "assets/whitepaper/request-flow.png",
+    "assets/whitepaper/system-architecture.png"
+  ],
+  "conversion_notes": [
+    "正文按原顺序转写，保留原文标题、段落、列表、表格及配图。",
+    "移除 Word 自动目录与页码、页眉、页脚；Markdown 标题提供章节导航。",
+    "未对原文的事实、技术与法律表述进行外部核验。"
+  ]
+}
