@@ -4,6 +4,12 @@
 
 ## 阅读入口
 
+### 建议阅读顺序
+
+1. 先读[首批节点机制与商务方案 v0.1](content/strategy/first-node-plan-v0.1.md)，了解当前节点方案。
+2. 再读[百万在线统计口径 v0.1](content/strategy/online-metrics-v0.1.md)，了解统计口径与验收示例。
+3. 最后参考[白皮书原稿转写](content/whitepaper/whitepaper.md)，了解历史基线。
+
 - [首批节点机制与商务方案 v0.1](content/strategy/first-node-plan-v0.1.md)：参与者、规模、准入、权责收益、退出及技术路径。
 - [百万在线统计口径 v0.1](content/strategy/online-metrics-v0.1.md)：供给、消费与供需一体实例的去重规则和验收示例。
 - [白皮书原稿转写](content/whitepaper/whitepaper.md)：完整保留原稿正文、5 张表和 2 幅图，作为历史基线。
